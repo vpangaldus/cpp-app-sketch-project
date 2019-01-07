@@ -1,4 +1,5 @@
 # C++ App Sketch Project
+[![Build Status](https://travis-ci.org/vpangaldus/cpp-app-sketch-project.svg?branch=master)](https://travis-ci.org/vpangaldus/cpp-app-sketch-project)
 
 A C++ sketch project with CMake and clang tooling. 
 
